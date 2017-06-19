@@ -7,7 +7,7 @@
         <div class="container">
           <div class="col-sm-3 text-center">
             <img class="i_logo" src="https://avatars3.githubusercontent.com/u/17093534?v=3&s=400" />
-            <div class= "logoText"> Allen's Index </div>
+            <div class= "logoText"> Allen's Blog </div>
           </div>
           <div class="col-sm-9">
             <ul class="nav navbar-nav i_lead_bar">
