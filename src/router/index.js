@@ -15,6 +15,7 @@ Router.prototype.goBack = function () {
   window.history.go(-1)
 }
 export default new Router({
+  mode: 'history',
   routes: [
     {
       path: '/',
